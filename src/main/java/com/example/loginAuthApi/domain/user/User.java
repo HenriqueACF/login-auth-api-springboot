@@ -1,4 +1,4 @@
-package com.example.login_auth_api.domain.user;
+package com.example.loginAuthApi.domain.user;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

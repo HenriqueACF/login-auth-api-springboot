@@ -1,7 +1,7 @@
-package com.example.login_auth_api.infra.security;
+package com.example.loginAuthApi.infra.security;
 
-import com.example.login_auth_api.domain.user.User;
-import com.example.login_auth_api.repository.UserRepository;
+import com.example.loginAuthApi.domain.user.User;
+import com.example.loginAuthApi.repository.UserRepository;
 import jakarta.servlet.FilterChain;
 import jakarta.servlet.ServletException;
 import jakarta.servlet.http.HttpServletRequest;
